@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_url":"https://hi-in.facebook.com/rahul.adhalrao/about",
+    "tw_url":"http://kiranasaman.com/",
+    "gh_url":"http://kiranasaman.com/",
+    "gamil_user": "iamvvvv18@gmail.com",
+    "gamil_password": "Tejas@1018"
+  }
+
+
+
+
+}
